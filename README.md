@@ -62,14 +62,14 @@
     <img align="center" src="RANA/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
- <a href="tel:01613356376" style="text-decoration: none;">
+ <a href="tel:01752865115" style="text-decoration: none;">
     <button style="background-color: green; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">
         𝗖𝗮𝗹𝗹 𝗺𝗲
     </button>
 </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/www.xnxx.com140" target="_blank">
-    <img align="center" src="Mahabub/facebook.png" alt="facebook" height="50" width="55" />
+  <a href="https://www.facebook.com/100063487970328" target="_blank">
+    <img align="center" src="RANA/facebook.png" alt="facebook" height="50" width="55" />
   </a>
 </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
