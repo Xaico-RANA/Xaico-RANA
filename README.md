@@ -1,3 +1,10 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MOHAMMAD+RANA....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
 <p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=New+Amsterdam&size=30&letterSpacing=Normal&duration=4500&pause=1000&color=5FD338E9&background=080D36EB&center=true&vCenter=true&width=453&height=100&lines=Its+a+demo" alt="Typing SVG" /></a>
 
 
