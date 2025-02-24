@@ -31,7 +31,18 @@
 <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
 <p align="center">Currently working on - Private Projects</p>
 
-<h3 align="center">Most Wanted Language</h3>
+
+---
+
+### 📈 **GitHub Statistics**
+<p align="center">
+  <a href="https://github.com/Xaico-RANA">
+    <img width=550 src="https://github-profile-trophy.vercel.app/?username=Xaico-RANA&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/>
+  </a>
+</p>
+
+---
+### 📈 **Most Wanted Language**
 <p align="center">
   <a href="https://github.com/MAHABUB720/sim-Api.git" target="_blank">
     <img align="center" src="RANA/node.js.png" alt="Python" height="65" width="65" />
@@ -56,7 +67,7 @@
 
 ---
 
-### 💻 **Tech Stack & Skills**
+### 📈 **Tech Stack & Skills**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,github,git,vscode,figma" />
 </p>
