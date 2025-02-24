@@ -44,11 +44,25 @@
 
 
 
-### Top Usage Languages:
+### 📈 **TOP Usage Languages**:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
+### 📈 **GitHub Activity**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xaico-RANA&show_icons=true&theme=radical">
+</p>
+
+---
+
+### 💻 **Tech Stack & Skills**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,github,git,vscode,figma" />
+</p>
+
+---
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
